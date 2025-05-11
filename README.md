@@ -10,7 +10,7 @@
 <br><br>
 🇦🇷 **Location**: Buenos Aires, Argentina
 
-🎂 **Age**: 17 años
+🎂 **Age**: 18 años
 
 I am a young individual passionate about technology and hacking. Currently, I am studying and exploring everything related to ethical hacking and cybersecurity.
 
